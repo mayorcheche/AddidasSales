@@ -1,4 +1,4 @@
-                                     My Analysis Report on Adidas Sales Performance and Profitability
+                          My Analysis Report on Adidas Sales Performance and Profitability
 
 Introduction:
 
